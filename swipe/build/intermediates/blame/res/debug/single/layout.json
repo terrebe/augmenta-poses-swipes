@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/augumentademo1/swipe/build/intermediates/res/merged/debug/layout/activity_swipe.xml",
+        "source": "/Users/Ben/Documents/ar-proj/augumentademo1/swipe/src/main/res/layout/activity_swipe.xml"
+    },
+    {
+        "merged": "/Users/Ben/Documents/ar-proj/augumentademo1/swipe/build/intermediates/res/merged/debug/layout/fragment_swipe.xml",
+        "source": "/Users/Ben/Documents/ar-proj/augumentademo1/swipe/src/main/res/layout/fragment_swipe.xml"
+    }
+]
